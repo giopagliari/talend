@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_x3wqkUvoEemWU4NtmrkBMg" label="TMC_GIT" language="java" technicalLabel="TMC_GIT" author="_x3wqkkvoEemWU4NtmrkBMg" productVersion="Talend Cloud Data Management Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/giopagliari/talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_ysIGwEvoEemWU4NtmrkBMg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_x3wqkkvoEemWU4NtmrkBMg" login="giovanni.pagliari@trial06378.eu.talend.com" firstName="Gio" lastName="Pagliari" type="DQ"/>
+</xmi:XMI>
